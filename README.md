@@ -1,1 +1,2 @@
 # jeuxdemains
+permalink: /index.html
